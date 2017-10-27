@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过以下
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("NumLockIndicator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("KeyboardIndicator")]
+[assembly: AssemblyDescription("Status Indicator for NumLock and CapsLock")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NumLockIndicator")]
+[assembly: AssemblyProduct("KeyboardIndicator")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
