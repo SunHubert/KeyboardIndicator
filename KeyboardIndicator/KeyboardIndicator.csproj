@@ -7,8 +7,8 @@
     <ProjectGuid>{75C8DB84-A8E1-4B16-ADAD-6693A76F0959}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NumLockIndicator</RootNamespace>
-    <AssemblyName>NumLockIndicator</AssemblyName>
+    <RootNamespace>KeyboardIndicator</RootNamespace>
+    <AssemblyName>KeyboardIndicator</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

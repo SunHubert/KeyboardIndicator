@@ -1,4 +1,4 @@
-﻿using NumLockIndicator.Properties;
+﻿using KeyboardIndicator.Properties;
 using System;
 using System.Configuration;
 using System.Runtime.InteropServices;
