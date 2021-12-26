@@ -7,9 +7,9 @@ Changing the value can change the number of icons displayed in the system tray .
 
 You can ***double-click*** any icon to close this program.
 
-![change](https://raw.githubusercontent.com/sunq1117/KeyboardIndicator/master/images/change.png)
+![change](https://raw.githubusercontent.com/SunHubert/KeyboardIndicator/master/images/change.png)
 
-![view](https://raw.githubusercontent.com/sunq1117/KeyboardIndicator/master/images/view.gif)
+![view](https://raw.githubusercontent.com/SunHubert/KeyboardIndicator/master/images/view.gif)
 
 
 *****
@@ -32,4 +32,4 @@ You can ***double-click*** any icon to close this program.
 **原文中提到如上三点都已经有个人想法的实现：**
 * 第一点：个人也有此困扰。故改成双击关闭。
 * 第二点：已经实现，可使用配置文件自由设定（如果都设置为N，则 NumLock 依旧会生效）。
-* 第二点：已经实现。
+* 第三点：已经实现。
